@@ -1,0 +1,58 @@
+{
+  "articulos": [
+    {
+      "id": 1,
+      "nombre": "Remera suplente",
+      "precio": "USD 99.9",
+      "foto": "imagenes/Remera.jpg"
+    },
+    {
+      "id": 2,
+      "nombre": "Remera titular",
+      "precio": "USD 120.5",
+      "foto": "imagenes/Remera2.JPG"
+    },
+    {
+      "id": 3,
+      "nombre": "Remera alternativa",
+      "precio": "USD 265",
+      "foto": "imagenes/Remera3.JPG"
+    },
+    {
+      "id": 4,
+      "nombre": "Campera entrenamiento",
+      "precio": "USD 223.5",
+      "foto": "imagenes/Campera1.jpg"
+    },
+    {
+      "id": 5,
+      "nombre": "Campera amistoso",
+      "precio": "USD 264",
+      "foto": "imagenes/Campera2.jfif"
+    },
+    {
+      "id": 6,
+      "nombre": "Campera fan",
+      "precio": "USD 180.5",
+      "foto": "imagenes/Campera3.JPG"
+    },
+    {
+      "id": 7,
+      "nombre": "Pantalon fan",
+      "precio": "USD 99.6",
+      "foto": "imagenes/Pantalon1.JPG"
+    },
+    {
+      "id": 8,
+      "nombre": "Short trainning",
+      "precio": "USD 305.5",
+      "foto": "imagenes/Short.JPG"
+    },
+    {
+      "id": 9,
+      "nombre": "Guantes",
+      "precio": "USD 95.5",
+      "foto": "imagenes/Guantes.JPG"
+    }
+  ]
+}
